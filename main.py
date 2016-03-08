@@ -39,7 +39,7 @@ def main():
 
     #TODO contruir un medio
 
-    #TODO construir un radar
+    #TODO todo construir un radar
 
 if __name__ == "__main__":
     main()
